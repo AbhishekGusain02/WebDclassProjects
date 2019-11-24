@@ -1,0 +1,67 @@
+<<!DOCTYPE html>
+<html >
+  <head>
+    <link rel="stylesheet" type="text/css" href="C:\Users\Acer\Desktop\style.css">
+    <style media="screen">
+      h1{
+        font-family :sans-serif;
+      }
+    </style>
+    <title>ShutterBYte</title>
+  </head>
+  <body>
+    <header>
+    <ol >
+    <li style="color:red"><a href="C:\Users\Acer\Desktop\myfirstwebsite.html">Home</a></li>
+    <li><a href ="https://www.facebook.com/abhishek.gusain.585">Contact</a></li>
+      <li><a href ="http:\\instagram.com\">About US</a></li>
+    </ol>
+  </header>
+<div class="welcome" >
+      <img src="C:\Users\Acer\Pictures\logo.svg.jpg" style="margin-left: :5px;"  >
+        <a href ="D:\p1\20190704_194824.jpg"><img id ="img1"src="D:\p1\20190704_194824.jpg" style=" margin-left:5px; margin-right:auto;"  ></a>
+      <a href ="D:\New folder\20190816_154056-01.jpeg"><img id ="img1"src="D:\New folder\20190816_154056-01.jpeg" style=" margin-left:5px; margin-right:auto;"  ></a>
+      <a href="" ="D:\New folder\20190816_143025-01.jpeg">  <img id ="img1"src="D:\New folder\20190816_143025-01.jpeg" style=" margin-left:5px; margin-right:auto;"  ></a>
+      <a href="" ="D:\New folder\20190816_153712-01.jpeg"><img id ="img1"src="D:\New folder\20190816_153712-01.jpeg" style=" margin-left:5px; margin-right:auto;"  ></a>
+      <a href="D:\p1\20190703_192104.jpg" >  <img id ="img1"src="D:\p1\20190703_192104.jpg" style=" margin-left:5px; margin-right:auto; margin-top:52px;"  ></a>
+      <a href="" ="D:\New folder\20190816_155737-01.jpeg"><img id ="img1"src="D:\New folder\20190816_155737-01.jpeg" style=" margin-left:5px; margin-right:auto;"  ></a>
+      <a href="" ="D:\p1\20190704_184429.jpg"><img id ="img1"src="D:\p1\20190704_184429.jpg" style=" margin-left:5px; margin-right:auto;"  ></a>
+<a href="D:\New folder\20190807_191730-01.jpeg">  <img id ="img1"src="D:\New folder\20190807_191730-01.jpeg" style=" margin-left:5px; margin-right:auto;"  ></a>
+</div>
+<div style=" text-align: center;font-family: sans-serif;text-decoration-color: blue;text-decoration: underline;text-align:center;">
+      <h1 style="font-family:vintage; font-style=bold; font-size:2.5em;">Welcome to ShutterByte</h1>
+      <h2  >photographer's HUb</h2>
+      </div>
+      <div id="block">
+        <div class="leftBlock">
+
+      <ol id="lists">
+        <li>From the writer</li>
+        <li>BE a pro</li>
+        <li>photo gallery</li>
+        <li>Event</li>
+        <li>Join Shutter FAmily</li>
+        <li>Contribute</li>
+      </ol>
+      </div>
+      <div class="middleBlock">
+      <ol>
+       <li>
+        <h3 style="font-family:sans-serif; font-size:1.8em;"><bd> From the writer<bd></h3>
+        <p> welcome to ShutterBYte.This is a single stop destination for all your photography related issues.<br> This website was created to help people new to photography whereas popularising the professionals.</p>
+       </li>
+       <li>
+         <h3 style="font-family:sans-serif; font-size:1.8em;">Be a Professional</h3>
+         <p>some basic tips and tricks to help you on your way to be a professional photographer</p>
+       </li>
+      </ol>
+        </div>
+        <div class="rightBlock">
+
+<p>hello this block is under construction.<br> please be patient</p>
+
+        </div>
+    </div>
+    <footer>@copyright</footer>
+  </body>
+</html>
