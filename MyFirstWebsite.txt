@@ -40,7 +40,7 @@
       <ul id="lists">
         <li><a href="C:/Users/Acer/Desktop/myfirstwebsite.html#link1">From the writer</a></li><br>
         <li><a href="C:/Users/Acer/Desktop/myfirstwebsite.html#link2">BE a pro</a></li><br>
-        <li>photo gallery</li><br>
+        <li><a href="C:/Users/Acer/Desktop/myfirstwebsite.html#link3">photo gallery</a></li><br>
         <li>Event</li><br>
         <li>Join Shutter FAmily</li><br>
         <li>Contribute</li><br>
@@ -60,7 +60,27 @@ When a photograph is composed using the rule of thirds the eyes<br> will wander 
 If you want to take great photos that you’d be proud of, by using the rules of composition, check out the<br> easy-to-follow Incredibly Important Composition Skills Course!</p>
        </li>
        <li>
-         <h3 style="font-family:sans-serif; font-size:1.8em;">
+         <h3 style="font-family:sans-serif; font-size:1.8em;" <a id="link3">Photo gallery</h3>
+         <p>Images will be uploaded soon ! keep in touch</p>
+         <a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
+<a href="#"><img src="#" id="image2" ></a>
       </ol>
         </div>
         <div class="rightBlock">
@@ -69,6 +89,11 @@ If you want to take great photos that you’d be proud of, by using the rules of c
 
         </div>
     </div>
-<footer>@copyright</footer>
+<footer>
+  <ul>
+  <li>Terms </li> <li>Privacy </li><li> Security</li> <li> Status </li> Help </li> <li>Contact</li>  <li>Training </li> <li>Blog </li> <li>About </li> <li> @copyright</li>
+
+
+</footer>
   </body>
 </html>
