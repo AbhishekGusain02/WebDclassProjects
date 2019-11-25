@@ -11,11 +11,13 @@
   </head>
   <body>
     <header>
-    <ol >
+      <input type="text" placeholder="ANY ISSUES ? TRY HERE" size=50px; class="searchBar">
+      <button class="search button">Search</button>
+    <ul >
     <li style="color:red"><a href="C:\Users\Acer\Desktop\myfirstwebsite.html">Home</a></li>
     <li><a href ="https://www.facebook.com/abhishek.gusain.585">Contact</a></li>
       <li><a href ="http:\\instagram.com\">About US</a></li>
-    </ol>
+    </ul>
   </header>
 <div class="welcome" >
       <img src="C:\Users\Acer\Pictures\logo.svg.jpg" style="margin-left: :5px;"  >
@@ -26,7 +28,7 @@
       <a href="D:\p1\20190703_192104.jpg" >  <img id ="img1"src="D:\p1\20190703_192104.jpg" style=" margin-left:5px; margin-right:auto; margin-top:52px;"  ></a>
       <a href="" ="D:\New folder\20190816_155737-01.jpeg"><img id ="img1"src="D:\New folder\20190816_155737-01.jpeg" style=" margin-left:5px; margin-right:auto;"  ></a>
       <a href="" ="D:\p1\20190704_184429.jpg"><img id ="img1"src="D:\p1\20190704_184429.jpg" style=" margin-left:5px; margin-right:auto;"  ></a>
-<a href="D:\New folder\20190807_191730-01.jpeg">  <img id ="img1"src="D:\New folder\20190807_191730-01.jpeg" style=" margin-left:5px; margin-right:auto;"  ></a>
+      <a href="D:\New folder\20190807_191730-01.jpeg">  <img id ="img1"src="D:\New folder\20190807_191730-01.jpeg" style=" margin-left:5px; margin-right:auto;"  ></a>
 </div>
 <div style=" text-align: center;font-family: sans-serif;text-decoration-color: blue;text-decoration: underline;text-align:center;">
       <h1 style="font-family:vintage; font-style=bold; font-size:2.5em;">Welcome to ShutterByte</h1>
@@ -35,25 +37,30 @@
       <div id="block">
         <div class="leftBlock">
 
-      <ol id="lists">
-        <li>From the writer</li>
-        <li>BE a pro</li>
-        <li>photo gallery</li>
-        <li>Event</li>
-        <li>Join Shutter FAmily</li>
-        <li>Contribute</li>
-      </ol>
+      <ul id="lists">
+        <li><a href="C:/Users/Acer/Desktop/myfirstwebsite.html#link1">From the writer</a></li><br>
+        <li><a href="C:/Users/Acer/Desktop/myfirstwebsite.html#link2">BE a pro</a></li><br>
+        <li>photo gallery</li><br>
+        <li>Event</li><br>
+        <li>Join Shutter FAmily</li><br>
+        <li>Contribute</li><br>
+      </ul>
       </div>
       <div class="middleBlock">
       <ol>
        <li>
-        <h3 style="font-family:sans-serif; font-size:1.8em;"><bd> From the writer<bd></h3>
+        <h3 style="font-family:sans-serif; font-size:1.8em;"><bd><a id="link1">From the writer</a><bd></h3>
         <p> welcome to ShutterBYte.This is a single stop destination for all your photography related issues.<br> This website was created to help people new to photography whereas popularising the professionals.</p>
        </li>
        <li>
-         <h3 style="font-family:sans-serif; font-size:1.8em;">Be a Professional</h3>
-         <p>some basic tips and tricks to help you on your way to be a professional photographer</p>
+         <h3 style="font-family:sans-serif; font-size:1.8em;"><bd><a id="link2">Be a Professional</a></h3>
+         <p >some basic tips and tricks to help you on your way to be a professional photographer.first of all it's <br>your passion that is going to help you in all your endavers.If you want to take pictures that have a<br> “wow” factor built in them, the Rule of Thirds is the composition secret you need to take advantage of!<br>
+To use the rule of thirds, imagine four lines, two lying horizontally across the image and two vertical <br>creating nine even squares. Some images will look best with the focal point in the center square, but<br> placing the subject off-center at one of the intersecting points of the imaginary lines will often create a<br> more aesthetically composed photograph.
+When a photograph is composed using the rule of thirds the eyes<br> will wander the frame. A picture composed using the rule of thirds is usually more pleasing to the eye.<br>
+If you want to take great photos that you’d be proud of, by using the rules of composition, check out the<br> easy-to-follow Incredibly Important Composition Skills Course!</p>
        </li>
+       <li>
+         <h3 style="font-family:sans-serif; font-size:1.8em;">
       </ol>
         </div>
         <div class="rightBlock">
@@ -62,6 +69,6 @@
 
         </div>
     </div>
-    <footer>@copyright</footer>
+<footer>@copyright</footer>
   </body>
 </html>
