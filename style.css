@@ -1,5 +1,5 @@
 body{
-  background-image: url("images (2).jfif");
+  background-image: url("luke-chesser-hQo6Uyo4nBg-unsplash.jpg");
 background-size:   contain;
 }
 
@@ -51,6 +51,9 @@ header ul{
 
 }
 
+.title{
+  color:yellow;
+}
 .welcome{
 background-color: black;
   text-align:  justify;
@@ -141,7 +144,7 @@ float: none;
   border: 1px solid blue;
   float: none;
   position:   relative;
-  left:250px;
+  left:200px;
   right:1050px;
 color: white;
 }

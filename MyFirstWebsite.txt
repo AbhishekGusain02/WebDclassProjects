@@ -30,9 +30,9 @@
       <a href="" ="D:\p1\20190704_184429.jpg"><img id ="img1"src="D:\p1\20190704_184429.jpg" style=" margin-left:5px; margin-right:auto;"  ></a>
       <a href="D:\New folder\20190807_191730-01.jpeg">  <img id ="img1"src="D:\New folder\20190807_191730-01.jpeg" style=" margin-left:5px; margin-right:auto;"  ></a>
 </div>
-<div style=" text-align: center;font-family: sans-serif;text-decoration-color: blue;text-decoration: underline;text-align:center;">
+<div  class="title"style=" text-align: center;font-family: sans-serif;text-align:center;">
       <h1 style="font-family:vintage; font-style=bold; font-size:2.5em;">Welcome to ShutterByte</h1>
-      <h2  >photographer's HUb</h2>
+      <h2  style="color:blue;">photographer's HUb</h2>
       </div>
       <div id="block">
         <div class="leftBlock">
