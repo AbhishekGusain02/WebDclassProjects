@@ -14,11 +14,12 @@
       <input type="text" placeholder="ANY ISSUES ? TRY HERE" size=50px; class="searchBar">
       <button class="search button">Search</button>
     <ul >
-    <li style="color:red"><a href="C:\Users\Acer\Desktop\myfirstwebsite.html">Home</a></li>
+    <li style="color:black"><a href="C:\Users\Acer\Desktop\myfirstwebsite.html">Home</a></li>
     <li><a href ="https://www.facebook.com/abhishek.gusain.585">Contact</a></li>
-      <li><a href ="http:\\instagram.com\">About US</a></li>
+      <li><a href ="https://instagram.com">About US</a></li>
     </ul>
   </header>
+
 <div class="welcome" >
       <img src="C:\Users\Acer\Pictures\logo.svg.jpg" style="margin-left: :5px;"  >
         <a href ="D:\p1\20190704_194824.jpg"><img id ="img1"src="D:\p1\20190704_194824.jpg" style=" margin-left:5px; margin-right:auto;"  ></a>
@@ -30,9 +31,18 @@
       <a href="" ="D:\p1\20190704_184429.jpg"><img id ="img1"src="D:\p1\20190704_184429.jpg" style=" margin-left:5px; margin-right:auto;"  ></a>
       <a href="D:\New folder\20190807_191730-01.jpeg">  <img id ="img1"src="D:\New folder\20190807_191730-01.jpeg" style=" margin-left:5px; margin-right:auto;"  ></a>
 </div>
-<div  class="title"style=" text-align: center;font-family: sans-serif;text-align:center;">
+<div >
+ <ul class="navbar" >
+   <li class="list1" ><a style="color:white;" href="#">About</a> </li>
+   <li class="list1" ><a style="color:white;" href="#">Contibuter</a></li>
+   <li class="list1" ><a style="color:white;" href="#">Members</a></li>
+   <li class="list1" ><a style="color:white;" href="#">help</a></li>
+</ul>
+</div>
+<div  class="title"style=" text-align: center;font-family: sans-serif;">
+
       <h1 style="font-family:vintage; font-style=bold; font-size:2.5em;">Welcome to ShutterByte</h1>
-      <h2  style="color:blue;">photographer's HUb</h2>
+      <h2  style="color:black;">photographer's HUb</h2>
       </div>
       <div id="block">
         <div class="leftBlock">
@@ -41,27 +51,27 @@
         <li><a href="C:/Users/Acer/Desktop/myfirstwebsite.html#link1">From the writer</a></li><br>
         <li><a href="C:/Users/Acer/Desktop/myfirstwebsite.html#link2">BE a pro</a></li><br>
         <li><a href="C:/Users/Acer/Desktop/myfirstwebsite.html#link3">photo gallery</a></li><br>
-        <li>Event</li><br>
-        <li>Join Shutter FAmily</li><br>
+        <li><a href="C:/Users/Acer/Desktop/myfirstwebsite.html#link4">Event</a></li><br>
+        <li><a href="C:/Users/Acer/Desktop/myfirstwebsite.html#link5">Join Shutter FAmily<a></li><br>
         <li>Contribute</li><br>
       </ul>
       </div>
       <div class="middleBlock">
       <ol>
        <li>
-        <h3 style="font-family:sans-serif; font-size:1.8em;"><bd><a id="link1">From the writer</a><bd></h3>
+        <h3 style="font-family:sans-serif; font-size:1.8em;"><bd><a style="color:greenyellow;"id="link1">From the writer</a><bd></h3>
         <p> welcome to ShutterBYte.This is a single stop destination for all your photography related issues.<br> This website was created to help people new to photography whereas popularising the professionals.</p>
        </li>
        <li>
-         <h3 style="font-family:sans-serif; font-size:1.8em;"><bd><a id="link2">Be a Professional</a></h3>
+         <h3 style="font-family:sans-serif; font-size:1.8em;"><bd><a style="color:greenyellow;"id="link2">Be a Professional</a></h3>
          <p >some basic tips and tricks to help you on your way to be a professional photographer.first of all it's <br>your passion that is going to help you in all your endavers.If you want to take pictures that have a<br> “wow” factor built in them, the Rule of Thirds is the composition secret you need to take advantage of!<br>
 To use the rule of thirds, imagine four lines, two lying horizontally across the image and two vertical <br>creating nine even squares. Some images will look best with the focal point in the center square, but<br> placing the subject off-center at one of the intersecting points of the imaginary lines will often create a<br> more aesthetically composed photograph.
 When a photograph is composed using the rule of thirds the eyes<br> will wander the frame. A picture composed using the rule of thirds is usually more pleasing to the eye.<br>
 If you want to take great photos that you’d be proud of, by using the rules of composition, check out the<br> easy-to-follow Incredibly Important Composition Skills Course!</p>
        </li>
        <li>
-         <h3 style="font-family:sans-serif; font-size:1.8em;" <a id="link3">Photo gallery</h3>
-         <p>Images will be uploaded soon ! keep in touch</p>
+         <h3 style="font-family:sans-serif; font-size:1.8em;text-align:center;"> <a style="color:greenyellow;"id="link3">Photo gallery</h3>
+         <p >Images will be uploaded soon ! keep in touch</p>
          <a href="#"><img src="#" id="image2" ></a>
 <a href="#"><img src="#" id="image2" ></a>
 <a href="#"><img src="#" id="image2" ></a>
@@ -81,18 +91,32 @@ If you want to take great photos that you’d be proud of, by using the rules of c
 <a href="#"><img src="#" id="image2" ></a>
 <a href="#"><img src="#" id="image2" ></a>
 <a href="#"><img src="#" id="image2" ></a>
-      </ol>
+         </li>
+         <li>
+           <h3 style="font-family:sans-serif; font-size:1.8em;"><a style="color:greenyellow;"id="link4">Events</a></h3>
+           <p>No new events yet</p>
+  </li>
+  <li>
+<h3 style="font-family:sans-serif; font-size:1.8em;"><a style="color:greenyellow;"id="link5">JOin ShutterByte Family</a></h3>
+  <p>If you want to be a part of ShutterByte family and contribute to the photoGraphy community then join us now</p>
+  <a href="#" style="color=black;">sign up</a>
+  </li>
+
+    </ol>
+
+
         </div>
         <div class="rightBlock">
 
-<p>hello this block is under construction.<br> please be patient</p>
-
+<p style="color:black;">hello this block is under construction.<br> please be patient</p>
+  <img style="position: justify;top:auto;" src="C:\Users\Acer\Desktop\tenor.gif">
+  <img  src="C:\Users\Acer\Desktop\tenor (1).gif">
         </div>
     </div>
 <footer>
   <ul>
-  <li>Terms </li> <li>Privacy </li><li> Security</li> <li> Status </li> Help </li> <li>Contact</li>  <li>Training </li> <li>Blog </li> <li>About </li> <li> @copyright</li>
-
+  <li style="margin-left:20px;">Terms </li> <li>Privacy </li><li> Security</li> <li> Status </li><li> Help </li> <li>Contact</li>  <li>Training </li> <li>Blog </li> <li>About </li> <li> @copyright</li>
+</ul>
 
 </footer>
   </body>
