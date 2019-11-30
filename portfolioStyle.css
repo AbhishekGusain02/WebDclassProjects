@@ -1,0 +1,98 @@
+body{
+  background-color:white;
+
+}
+header img{
+  width: 100px;
+  position: relative;
+  top:-4px;
+  left:40px;
+}
+header h1{
+  font-weight:  bolder;
+  text-decoration: underline;
+  font-family: Elephant;
+  color:#05BCC6 ;
+  position: relative;
+  top:-75px;
+  left:180px;
+}
+header ul{
+  padding:2px;
+ margin-top:2px;
+ position: relative;
+ left:1102px;
+ top:-130px;
+}
+header li{
+
+
+  background-color:rgb(227, 242, 253);
+  display: inline ;
+  margin-right: 10px;
+  padding:10px;
+
+}
+.personalInfo{
+  position: absolute;
+  left:560px;
+  top:90px;
+  font-family: "Matura MT Script Capitals";
+  text-align: center;
+  font-size: 40px;
+  paddding:0;
+}
+#mainImg{
+  z-index: -2;
+  position:absolute;
+  left:50px;
+  top: 50px;
+  width:1450px;
+  height: auto;
+    margin-left: -10px;
+    margin-bottom: 50px;
+}
+.thingsIamGoodAt{
+  position: absolute;
+  left:260px;
+  top:260px;
+  font-family:broadway;
+  text-align: left;
+  font-size: 40px;
+}
+.achievements{
+  position: absolute;
+  left:560px;
+  top:500px;
+  font-family:forte;
+  text-align: left;
+  font-size: 40px;
+}
+.goals{
+    position: absolute;
+    left:920px;
+    top:240px;
+    font-family:"Showcard Gothic";
+    text-align: left;
+    font-size: 40px;
+}
+a:hover{
+  color:blue;
+  background-color:white ;
+  cursor:  pointer;
+}
+.menu{
+  color :white;
+  font-size:25px;
+  z-index: +5;
+  width:200px;
+  height:450px;
+  border-left-style: ridge;
+  border-left-width: thick;
+  border-color: silver;
+  position: absolute;
+  left :1250px;
+  top:200px;
+  padding-right:0px;
+
+}
