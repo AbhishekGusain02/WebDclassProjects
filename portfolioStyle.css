@@ -41,6 +41,7 @@ header li{
   text-align: center;
   font-size: 40px;
   paddding:0;
+
 }
 #mainImg{
   z-index: -2;
@@ -80,6 +81,7 @@ a:hover{
   color:blue;
   background-color:white ;
   cursor:  pointer;
+  text-shadow:2px 2px 5px white;
 }
 .menu{
   color :white;
